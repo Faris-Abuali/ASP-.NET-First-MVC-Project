@@ -9,7 +9,7 @@
 </p>
 
 
-#### 2. Complete 3 Hour ASP NET 6.0 and Entity Framework Core Course! 
+#### 2. Complete 3-Hour ASP NET 6.0 and Entity Framework Core Course! 
 <p>
   <a href="https://youtu.be/7d2UMAIgOLQ">Watch Video 📺</a>
 </p>
